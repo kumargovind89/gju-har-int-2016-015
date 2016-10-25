@@ -1,0 +1,32 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mongodb": "^2.2.11",
+    "morgan": "^1.7.0",
+    "serve-static": "^1.11.1",
+    "should": "^11.1.1",
+    "static-favicon": "^2.0.0-alpha",
+    "supertest": "^2.0.1",
+    "time-grunt": "^0.1.2",
+    "underscore": "^1.8.3",
+    "view-helpers": "^0.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumargovind89/gju-har-int-2016-015.git"
+  },
+  "author": "govind",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kumargovind89/gju-har-int-2016-015/issues"
+  },
+  "homepage": "https://github.com/kumargovind89/gju-har-int-2016-015#readme"
+}
